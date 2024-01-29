@@ -1,12 +1,12 @@
 {
-    "name": "sidus/eav-model-bundle",
+    "name": "stayeronglass/better-eav-model-bundle",
     "description": "Symfony & Doctrine implementation of a Entity-Attribute-Value model, easily extendable",
     "keywords": [
         "eav",
         "doctrine",
         "model"
     ],
-    "homepage": "https://github.com/VincentChalnot/SidusEAVModelBundle",
+    "homepage": "https://github.com/stayeronglass/BetterSidusEAVModelBundle",
     "type": "library",
     "license": "MIT",
     "authors": [
