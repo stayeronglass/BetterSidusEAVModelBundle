@@ -1,5 +1,5 @@
 {
-    "name": "sidus/eav-model-bundle",
+    "name": "stayeronglass/better-eav-model-bundle",
     "description": "Symfony3 & Doctrine implementation of a Entity-Attribute-Value model, easily extendable",
     "keywords": [
         "eav",
@@ -23,11 +23,11 @@
         }
     },
     "require": {
-        "php": ">=5.6",
+        "php": ">=8.2",
         "ext-mbstring": "*",
-        "symfony/symfony": "^4.0|^3.0|^2.8",
+        "symfony/symfony": "^v7.0",
         "doctrine/orm": "^2.5",
-        "doctrine/doctrine-bundle": "^1.6",
+        "doctrine/doctrine-bundle": "^2.0",
         "sidus/base-bundle": "~1.0"
     },
     "suggest": {
